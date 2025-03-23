@@ -47,28 +47,7 @@ I'm a **Computer Science Engineering** student at **Thapar Institute of Engineer
 
 ---
 
-## 📌 Notable Projects
 
-### 🏋️‍♂️ Calorie Burn Prediction System
-🔹 Built an ML model using **Scikit-Learn** to predict calories burned based on **heart rate, exercise duration, and temperature**.
-🔹 Deployed a **Streamlit** web app for real-time predictions.
-
-### 🏥 Breast Cancer Detection using Neural Networks
-🔹 Developed a deep learning model using **TensorFlow & Keras**.
-🔹 Preprocessed medical data & achieved **high accuracy** through model tuning.
-
-### 🗳️ Voting Application API
-🔹 Designed a **secure voting system** with **JWT authentication & RBAC**.
-🔹 Built using **Node.js, Express.js, and MongoDB**.
-
----
-
-## 🏆 Certifications & Achievements
-- 🎓 **Artificial Intelligence and Machine Learning** – ISRO
-- 🏅 **Solved 250+ problems on Leetcode**
-- 🏆 **Merit Scholarship** for JEE Mains Performance (₹3 Lakh)
-
----
 
 ## 📬 Get in Touch
 💌 **Email:** [pranshugargktl@gmail.com](mailto:pranshugargktl@gmail.com)  
